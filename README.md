@@ -4,7 +4,7 @@ This project is a simple HTML page hosted on GitHub Pages.
 
 ## Getting Started
 
-To view the project, visit [this link](https://abhi-cyber918.github.io/sitck-man/).
+To view the project, visit (abhi-cyber918.github.io/sitck-man/)
 
 ## License
 
